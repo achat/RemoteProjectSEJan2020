@@ -8,5 +8,9 @@ public class MyFrame extends JFrame {
 		this.setSize(400, 400);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
+	
+	public void m1() {
+		
+	}
 
 }
